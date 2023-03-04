@@ -1,6 +1,6 @@
-#Test internet speet using python
+# Test internet speet using python
 
-###Installation
+### Installation
 
 Firts of all, you need install libruary
 
